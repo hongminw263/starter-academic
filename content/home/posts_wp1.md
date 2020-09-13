@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Parental Responses to Social Insurance for Children: Evidence from CHIP
+\textbf{Parental Responses to Social Insurance for Children: Evidence from CHIP}
 
 
 Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts
