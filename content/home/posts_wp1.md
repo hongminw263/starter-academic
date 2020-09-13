@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Working Papers"
+title = "Job Market Paper"
 subtitle = ""
 
 [content]
@@ -68,11 +68,4 @@ subtitle = ""
 +++
 
 Parental Responses to Social Insurance for Children: Evidence from CHIP
-[JMP] {{% staticref "files/CHIP7v.pdf" %}}[PDF]{{% /staticref %}}
-
-
-Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts
-
-
-Performance Pay in Insurance Markets: Evidence from Medicare
-
+{{% staticref "files/CHIP7v.pdf" %}}[PDF]{{% /staticref %}}
