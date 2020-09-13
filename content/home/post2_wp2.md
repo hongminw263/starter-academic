@@ -67,13 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
-Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts      
-{{% staticref "files/RomneyCare.pdf" %}}[PDF]{{% /staticref %}}
+Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/RomneyCare.pdf" %}}[PDF]{{% /staticref %}}
 
 Performance Pay in Insurance Markets: Evidence from Medicare
 {{% staticref "files/RiskSelection.pdf" %}}[PDF]{{% /staticref %}}
 
-The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan
+The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan     
 (Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
 
 
