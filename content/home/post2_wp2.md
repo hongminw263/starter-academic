@@ -69,7 +69,7 @@ subtitle = ""
 
 Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/RomneyCare.pdf" %}}[PDF]{{% /staticref %}}
 
-Performance Pay in Insurance Markets: Evidence from Medicare
+Performance Pay in Insurance Markets: Evidence from Medicare (with Michele Fioretti) 
 {{% staticref "files/RiskSelection.pdf" %}}[PDF]{{% /staticref %}}
 
 The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan     
