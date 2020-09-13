@@ -14,7 +14,7 @@
   weight = 15 
 
 [[main]]
-  name = "Posts"
+  name = "Research"
   url = "#posts_wp1"
   weight = 20
 
