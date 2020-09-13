@@ -68,6 +68,6 @@ subtitle = ""
 +++
 
 
-Parental Responses to Social Insurance for Children: Evidence from CHIP
-
+                                                                        
+Parental Responses to Social Insurance for Children: Evidence from CHIP      
 {{% staticref "files/CHIP7v.pdf" %}}[PDF]{{% /staticref %}}
