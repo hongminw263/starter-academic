@@ -35,14 +35,14 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,3 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
+2016. Western Economic Association International (Portland), American Society of Health Economists (Philadelphia)
+2017. Western Economic Association International (San Diego)
+2018. AEA/ASSA (Philadelphia), American Society of Health Economists (Atlanta)
+2019. AEA/ASSA (Atlanta), International Industrial Organization Conference (Boston, co-author), Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
+2020. Society of Labor Economists (virtual), Econometric Society World Congress (virtual)
