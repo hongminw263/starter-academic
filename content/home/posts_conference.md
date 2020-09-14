@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Working Papers"
+title = "Conferences"
 subtitle = ""
 
 [content]
@@ -69,10 +69,16 @@ subtitle = ""
 
 2016. American Society of Health Economists (Philadelphia), Western Economic Association International (Portland)
 
+
 2017. Western Economic Association International (San Diego)
+
 
 2018. AEA/ASSA (Philadelphia), American Society of Health Economists (Atlanta)
 
+
 2019. AEA/ASSA (Atlanta), International Industrial Organization Conference (Boston, co-author), Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
 
+
 2020. Society of Labor Economists (virtual), Econometric Society World Congress (virtual)
+
+
