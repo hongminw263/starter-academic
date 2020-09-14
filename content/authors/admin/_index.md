@@ -3,7 +3,7 @@ title: Hongming Wang
 authors:
   - admin
 role: Post-Doctoral Researcher in Economics
-bio: My research interests include public economics, health economics, and labor.
+#bio: My research interests include public economics, health economics, and labor.
 interests:
   - Health Economics
   - Public Economics
