@@ -67,8 +67,8 @@ subtitle = ""
  css_class = ""
 +++
  
-2018-2019.  Teaching Assistant, Intermediate Micro (ECON303), USC
+2018-2019.  Teaching Assistant, Intermediate Micro, USC
 
 
-2013-2014.  Teaching Assistant, Intermediate Micro (ECON303), Intermediate Macro (ECON305), USC
+2013-2014.  Teaching Assistant, Intermediate Micro and Intermediate Macro, USC
 
