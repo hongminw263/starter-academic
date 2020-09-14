@@ -76,7 +76,11 @@ subtitle = ""
 +++
 
 2016. Western Economic Association International (Portland), American Society of Health Economists (Philadelphia)
+
 2017. Western Economic Association International (San Diego)
+
 2018. AEA/ASSA (Philadelphia), American Society of Health Economists (Atlanta)
+
 2019. AEA/ASSA (Atlanta), International Industrial Organization Conference (Boston, co-author), Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
+
 2020. Society of Labor Economists (virtual), Econometric Society World Congress (virtual)
