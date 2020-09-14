@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Conferences"
-  url = "#projects"
+  url = "#posts_conference"
   weight = 30
 
 [[main]]
