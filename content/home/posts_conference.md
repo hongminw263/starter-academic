@@ -66,18 +66,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-2016. American Society of Health Economists (Philadelphia), Western Economic Association International (Portland)
-
-
-2017. Western Economic Association International (San Diego)
+ 
+2016.  American Society of Health Economists (Philadelphia), Western Economic Association International (Portland)
 
 
-2018. AEA/ASSA (Philadelphia), American Society of Health Economists (Atlanta)
+2017.  Western Economic Association International (San Diego)
 
 
-2019. AEA/ASSA (Atlanta), International Industrial Organization Conference (Boston, co-author), Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
+2018.  AEA/ASSA (Philadelphia), American Society of Health Economists (Atlanta)
 
 
-2020. Society of Labor Economists (virtual), Econometric Society World Congress (virtual)
+2019.  AEA/ASSA (Atlanta), International Industrial Organization Conference (Boston, co-author), Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
+
+
+2020.  Society of Labor Economists (virtual), Econometric Society World Congress (virtual)
 
