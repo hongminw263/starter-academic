@@ -19,14 +19,14 @@
   weight = 20
 
 [[main]]
-  name = "Grants"
-  url = "#posts_honors"
-  weight = 30
-
-[[main]]
   name = "Teaching"
   url = "#posts_teaching"
   weight = 60
+  
+[[main]]
+ name = "Links"
+ url = "#posts_links"
+ weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
