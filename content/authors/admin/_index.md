@@ -14,4 +14,4 @@ Hongming Wang is a post-doctoral researcher at the Hitotsubashi Institute for Ad
 
 Email: hongming.wang@r.hit-u.ac.jp
 
-{{% staticref "files/cv.pdf" %}}CV{{% /staticref %}}.
+CV is {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}.
