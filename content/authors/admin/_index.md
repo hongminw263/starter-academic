@@ -10,8 +10,8 @@ interests:
   - Labor
 superuser: true
 ---
-Hongming Wang is a post-doctoral researcher at the Hitotsubashi Institute for Advanced Study (HIAS), Hitotsubashi University. His research has examined the economic implications of insurance expansions for low-income children and adults, and the impacts of private insurance for the elderly. He currently receives funding from the Japan Society for the Promotion of Science to examine the long-run impacts of universal health insurance implemented in Japan in 1961.
+Hongming Wang is a post-doctoral researcher at the Hitotsubashi Institute for Advanced Study (HIAS), Hitotsubashi University. His research has examined the economic implications of health insurance for low-income children and adults, and reforms in the private insurance market for the elderly. He currently receives funding from the Japan Society for the Promotion of Science to examine the long-run impacts of universal health insurance implemented in Japan in 1961.
 
-My email is hongming.wang@r.hit-u.ac.jp. 
+Email: hongming.wang@r.hit-u.ac.jp
 
-You can find my CV {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}.
+CV {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}.
