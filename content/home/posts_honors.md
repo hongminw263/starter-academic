@@ -67,11 +67,11 @@ subtitle = ""
  css_class = ""
 +++
  
-2020-2022.  Grants-in-Aid for Scientific Research, Japan Society for the Promotion of Science
+2020-2022:  Grants-in-Aid for Scientific Research, Japan Society for the Promotion of Science
 
 
-2012-2018.  Provost Fellwship, USC
+2012-2018:  Provost Fellwship, USC
 
 
-2015-2017.  Schaeffer Fellowship, Schaeffer Center for Health Policy and Economics
+2015-2017:  Schaeffer Fellowship, Schaeffer Center for Health Policy and Economics
 
