@@ -66,6 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2020.       Guest Lecturer, Topics in Health Economics, Hitotsubashi University
+
  
 2018-2019.  Teaching Assistant, Intermediate Micro, USC
 
