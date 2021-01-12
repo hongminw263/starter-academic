@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Conferences"
+title = "Awards and Fellowships"
 subtitle = ""
 
 [content]
@@ -65,13 +65,12 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
----
++++
+ 
+2020-2022.  Grants-in-Aid for Scientific Research, Japan Society for the Promotion of Science
 
 
-2021-2022.  AEA/ASSA (virtual)
+2012-2018.  Provost Fellwship, USC
 
 
-2020-2011.  Econometric Society European Winter Meetings (virtual), INFER (virtual, co-author), Econometric Society World Congress (virtual), Society of Labor Economists (virtual)
-
-
-2019-2020.  Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo), International Industrial Organization Conference (Boston, co-author), AEA/ASSA (Atlanta)
+2015-2017.  Schaeffer Fellowship, Schaeffer Center for Health Policy and Economics
