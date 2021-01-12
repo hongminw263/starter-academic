@@ -83,7 +83,7 @@ subtitle = ""
             Society of Labor Economics (Virtual)
 
 
-2019-2010.  
+2019-2020.  
 
             Econometric Society European Winter Meetings (Rotterdam)
             
