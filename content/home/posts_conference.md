@@ -67,9 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 2021.  AEA/ASSA (virtual)
-
  
 2020.  Econometric Society European Winter Meetings (virtual), INFER (virtual, co-author), Econometric Society World Congress (virtual), Society of Labor Economists (virtual)
-
 
 2019.  Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo), International Industrial Organization Conference (Boston, co-author), AEA/ASSA (Atlanta)
