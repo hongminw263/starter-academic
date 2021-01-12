@@ -64,8 +64,8 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
-+++
+ css_class = "" +++
+ 
 2020.       Guest Lecturer, Topics in Health Economics, Hitotsubashi University
 
  
