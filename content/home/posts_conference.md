@@ -67,12 +67,12 @@ subtitle = ""
  css_class = ""
 +++
  
-2021-2022.  
+2021.  
 
             AEA/ASSA (Virtual)
 
 
-2020-2021.  
+2020.  
 
             Econometric Society European Winter Meetings (Virtual)
             
@@ -83,7 +83,7 @@ subtitle = ""
             Society of Labor Economics (Virtual)
 
 
-2019-2020.  
+2019.  
 
             Econometric Society European Winter Meetings (Rotterdam)
             
