@@ -69,11 +69,11 @@ subtitle = ""
  css_class = ""
 +++
  
-2020-2021.  Guest Lecturer, Topics in Health Economics, Hitotsubashi University
+2020-2021:  Guest Lecturer, Topics in Health Economics, Hitotsubashi University
 
 
-2018-2019.  Teaching Assistant, Intermediate Micro, USC
+2018-2019:  Teaching Assistant, Intermediate Micro, USC
 
 
-2013-2014.  Teaching Assistant, Intermediate Micro and Intermediate Macro, USC
+2013-2014:  Teaching Assistant, Intermediate Micro and Intermediate Macro, USC
 
