@@ -71,8 +71,11 @@ subtitle = ""
 
 
 2020-2021.  Econometric Society European Winter Meetings
+
             INFER (co-author)
+            
             Econometric Society World Congress
+            
             Society of Labor Economics 
 
 
