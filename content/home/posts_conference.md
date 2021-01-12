@@ -67,22 +67,22 @@ subtitle = ""
  css_class = ""
 +++
  
-01.2021     AEA/ASSA (Virtual)
+2021/01:          AEA/ASSA (Virtual)
 
 
-12.2020     Econometric Society European Winter Meetings (Virtual), INFER (Virtual, co-author)
+2020/12:          Econometric Society European Winter Meetings (Virtual)
             
             
-08.2020     Econometric Society World Congress (Virtual)
+2020/08:          Econometric Society World Congress (Virtual)
 
 
-06.2020     Society of Labor Economics (Virtual)
+2020/06:          Society of Labor Economics (Virtual)
 
 
-12.2019     Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
+2019/12:          Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
 
 
-06.2019     International Industrial Organization Conference (Boston, co-author)
+2019/06:          International Industrial Organization Conference (Boston, co-author)
 
 
-01.2019     AEA/ASSA (Atlanta)
+2019/01:          AEA/ASSA (Atlanta)
