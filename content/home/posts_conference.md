@@ -70,8 +70,10 @@ subtitle = ""
 2021-2022.  AEA/ASSA
 
 
-2020-2021.  Econometric Society European Winter Meetings
+2020-2021.  
 
+            Econometric Society European Winter Meetings
+            
             INFER (co-author)
             
             Econometric Society World Congress
