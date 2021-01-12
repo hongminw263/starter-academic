@@ -69,7 +69,5 @@ subtitle = ""
 
 
                                                                         
-Parental Responses to Social Insurance for Children: Evidence from CHIP      
+Nudging Parents to Invest: Evidence from Children's Insurance      
 {{% staticref "files/jmp.pdf" %}}[PDF]{{% /staticref %}}
-[[2 minute intro]](https://www.youtube.com/watch?v=3laOaApy5rw&feature=youtu.be)
-[[short presentation]](https://www.youtube.com/watch?v=NoKTjBp9w6E&feature=youtu.be)
