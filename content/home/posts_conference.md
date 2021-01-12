@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -68,10 +68,10 @@ subtitle = ""
 ---
 
 
-2021.  AEA/ASSA (virtual)
+2021a.  AEA/ASSA (virtual)
 
 
-2020.  Econometric Society European Winter Meetings (virtual), INFER (virtual, co-author), Econometric Society World Congress (virtual), Society of Labor Economists (virtual)
+2020b.  Econometric Society European Winter Meetings (virtual), INFER (virtual, co-author), Econometric Society World Congress (virtual), Society of Labor Economists (virtual)
 
 
-2019.  Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo), International Industrial Organization Conference (Boston, co-author), AEA/ASSA (Atlanta)
+2019c.  Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo), International Industrial Organization Conference (Boston, co-author), AEA/ASSA (Atlanta)
