@@ -66,18 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2021.  AEA/ASSA (virtual)
+
  
-2016.  American Society of Health Economists (Philadelphia), Western Economic Association International (Portland)
+2020.  Econometric Society European Winter Meetings (virtual), INFER (virtual, co-author), Econometric Society World Congress (virtual), Society of Labor Economists (virtual)
 
 
-2017.  Western Economic Association International (San Diego)
-
-
-2018.  AEA/ASSA (Philadelphia), American Society of Health Economists (Atlanta)
-
-
-2019.  AEA/ASSA (Atlanta), International Industrial Organization Conference (Boston, co-author), Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo)
-
-
-2020.  Society of Labor Economists (virtual), Econometric Society World Congress (virtual)
-
+2019.  Econometric Society European Winter Meetings (Rotterdam), Asia Pacific Industrial Organization Conference (Tokyo), International Industrial Organization Conference (Boston, co-author), AEA/ASSA (Atlanta)
