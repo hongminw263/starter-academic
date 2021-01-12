@@ -67,10 +67,10 @@ subtitle = ""
  css_class = ""
 +++
  
-2020-2022.  Grants-in-Aid for Scientific Research, Japan Society for the Promotion of Science
+2021-2022.  AEA/ASSA
 
 
-2012-2018.  Provost Fellwship, USC
+2020-2021.  Econometric Society European Winter Meetings, INFER (co-author), Econometric Society World Congress, Society of Labor Economics 
 
 
-2015-2017.  Schaeffer Fellowship, Schaeffer Center for Health Policy and Economics
+2019-2010.  Econometric Society European Winter Meetings, Asia Pacific IO Conference, International IO Conference (co-author), AEA/ASSA
