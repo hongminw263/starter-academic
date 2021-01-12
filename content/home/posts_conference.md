@@ -69,18 +69,18 @@ subtitle = ""
  
 2021-2022.  
 
-            AEA/ASSA (virtual)
+            AEA/ASSA (Virtual)
 
 
 2020-2021.  
 
-            Econometric Society European Winter Meetings (virtual)
+            Econometric Society European Winter Meetings (Virtual)
             
-            INFER (virtual, co-author)
+            INFER (Virtual, co-author)
             
-            Econometric Society World Congress (virtual)
+            Econometric Society World Congress (Virtual)
             
-            Society of Labor Economics (virtual)
+            Society of Labor Economics (Virtual)
 
 
 2019-2010.  
