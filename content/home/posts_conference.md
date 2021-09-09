@@ -66,6 +66,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2021/07:          Econometric Society China Meeting (Virtual)
+
+
+2021/04:          Keio University (Tokyo)
+
  
 2021/01:          AEA/ASSA (Virtual)
 
