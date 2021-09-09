@@ -70,12 +70,12 @@ subtitle = ""
 Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/RomneyCare.pdf" %}}[PDF]{{% /staticref %}}
 
 Performance Pay in Insurance Markets: Evidence from Medicare (with Michele Fioretti) 
-{{% staticref "files/RiskSelectionRe.pdf" %}}[PDF]{{% /staticref %}} [[Presentation]](https://www.youtube.com/watch?v=guhCTe3YdIY) ***R&R, Review of Economics and Statistics***
+{{% staticref "files/p4p_insurance_0715.pdf" %}}[PDF]{{% /staticref %}} [[Presentation]](https://www.youtube.com/watch?v=guhCTe3YdIY) ***Conditionally Accepted, Review of Economics and Statistics***
 
 The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan     
 (Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
 
-Vaccine Distribution Strategies for the COVID-19 Pandemic in Japan and in Low- and Middle-Income Countries
+Dynamic Multi-Stage Prioritization For COVID-19 Vaccination Across Age and Risk Groups
 (with Yoko Ibuka and Ryota Nakamura)
 
 
