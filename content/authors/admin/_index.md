@@ -2,7 +2,7 @@
 title: Hongming Wang
 authors:
   - admin
-role: Post-Doctoral Researcher in Economics
+role: Research Associate in Economics
 #bio: My research interests include health and public economics.
 interests:
   - Health Economics
