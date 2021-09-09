@@ -3,14 +3,13 @@ title: Hongming Wang
 authors:
   - admin
 role: Post-Doctoral Researcher in Economics
-#bio: My research interests include public economics, health economics, and labor.
+#bio: My research interests include health and public economics.
 interests:
   - Health Economics
   - Public Economics
-  - Labor
 superuser: true
 ---
-Hongming Wang is a post-doctoral researcher at the Hitotsubashi Institute for Advanced Study (HIAS), Hitotsubashi University. His research has examined the economic implications of health insurance for low-income children and adults, and reforms in the private insurance market for the elderly. He currently receives funding from the Japan Society for the Promotion of Science to examine the long-run impacts of universal health insurance implemented in Japan in 1961.
+Hongming Wang is a research associate at the Hitotsubashi Institute for Advanced Study (HIAS), Hitotsubashi University. He has studied payment regulaitons in health insurance markets and the impacts of insurance expansions for low-income adults and children. He is more broadly interested in how policies impact individuals and firms in regulated industries such as healthcare.
 
 Email: hongming.wang@r.hit-u.ac.jp
 
