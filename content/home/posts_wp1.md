@@ -72,5 +72,17 @@ subtitle = ""
 +++
 
 
-                                                                        
+
+
+
+
 Nudging Parents to Invest: Evidence from Children's Insurance {{% staticref "files/HongmingWang_JMP.pdf" %}}[PDF]{{% /staticref %}}
+
+
+
+
+
+
+
+
+
