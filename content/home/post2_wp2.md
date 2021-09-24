@@ -75,10 +75,8 @@ Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Ma
 
 Nudging Parents to Invest: Evidence from Children's Insurance {{% staticref "files/HongmingWang_JMP.pdf" %}}[PDF]{{% /staticref %}}
 
-The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan     
-(Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
-
 Dynamic Multi-Stage Prioritization For COVID-19 Vaccination Across Age and Risk Groups
 (with Yoko Ibuka and Ryota Nakamura)
 
-
+The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan     
+(Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
