@@ -73,7 +73,7 @@ subtitle = ""
 
 Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/RomneyCare.pdf" %}}[PDF]{{% /staticref %}}
 
-Nudging Parents to Invest: Evidence from Children's Insurance {{% staticref "files/HongmingWang_JMP.pdf" %}}[PDF]{{% /staticref %}}
+Nudging Parents to Invest: Evidence from Children's Insurance {{% staticref "files/JMP_SEP.pdf" %}}[PDF]{{% /staticref %}}
 
 Dynamic Multi-Stage Prioritization For COVID-19 Vaccination Across Age and Risk Groups
 (with Yoko Ibuka and Ryota Nakamura)
