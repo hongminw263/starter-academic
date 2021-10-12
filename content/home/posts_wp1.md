@@ -77,7 +77,7 @@ subtitle = ""
 
 
 Performance Pay in Insurance Markets: Evidence from Medicare (with Michele Fioretti) 
-{{% staticref "files/JMP_SEP.pdf" %}}[PDF]{{% /staticref %}} [[Presentation]](https://www.youtube.com/watch?v=guhCTe3YdIY) *Conditionally Accepted, Review of Economics and Statistics*
+{{% staticref "files/JMP_SEP.pdf" %}}[PDF]{{% /staticref %}} *Conditionally Accepted, Review of Economics and Statistics*
 
 
 
