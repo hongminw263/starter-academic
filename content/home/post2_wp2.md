@@ -71,11 +71,11 @@ subtitle = ""
  css_class = ""
 +++
 
-Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/RomneyCare.pdf" %}}[PDF]{{% /staticref %}}
+Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/MAreform.pdf" %}}[PDF]{{% /staticref %}}
 
 Nudging Parents to Invest: Evidence from Children's Insurance {{% staticref "files/JMP_CHIP.pdf" %}}[PDF]{{% /staticref %}}
 
-Dynamic Multi-Stage Prioritization For COVID-19 Vaccination Across Age and Risk Groups
+Optimal Targeting of Age and Risk Groups for COVID-19 Vaccines in Japan: A Modelling Study
 (with Yoko Ibuka and Ryota Nakamura)
 
 The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan     
