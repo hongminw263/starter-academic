@@ -71,7 +71,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/MAreform.pdf" %}}[PDF]{{% /staticref %}}
+Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/MAreform_Nov_2021.pdf" %}}[PDF]{{% /staticref %}}
 
 Nudging Parents to Invest: Evidence from Children's Insurance {{% staticref "files/JMP_CHIP.pdf" %}}[PDF]{{% /staticref %}}
 
