@@ -70,6 +70,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2021/12:          Econometric Society European Winter Meetings (Virtual)
+
+
 2021/07:          Econometric Society China Meeting (Virtual)
 
 
