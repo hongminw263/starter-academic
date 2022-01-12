@@ -75,8 +75,8 @@ Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Ma
 
 Nudging Parents to Invest: Evidence from Children's Insurance {{% staticref "files/JMP_CHIP.pdf" %}}[PDF]{{% /staticref %}}
 
-Optimal Targeting of Age and Risk Groups for COVID-19 Vaccines in Japan: A Modelling Study
+Mixing Age and Risk Groups for Accessing COVID-19 Vaccines in Japan: A Modeling Study
 (with Yoko Ibuka and Ryota Nakamura)
 
-The Long-Run Health and Economic Impacts of Universal Health Insurance in Japan     
+Reducing Inequality While Improving Health: The Long-Run Impacts from the Onset of Universal Health Insurance in Japan     
 (Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
