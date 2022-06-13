@@ -71,7 +71,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/MAreform_Nov_2021.pdf" %}}[PDF]{{% /staticref %}}
+Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/MAreform_Jun_2022.pdf" %}}[PDF]{{% /staticref %}}
 
 Mixing Age and Risk Groups for Accessing COVID-19 Vaccines in Japan: A Modeling Study
 (with Yoko Ibuka and Ryota Nakamura)
