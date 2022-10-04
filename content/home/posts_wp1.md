@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Job Market Paper"
+title = "Publication"
 subtitle = ""
 
 [content]
@@ -77,7 +77,7 @@ subtitle = ""
 
 
 Performance Pay in Insurance Markets: Evidence from Medicare (with Michele Fioretti) 
-{{% staticref "files/JMP_SEP.pdf" %}}[PDF]{{% /staticref %}} *Forthcoming, Review of Economics and Statistics*
+{{% staticref "files/JMP_SEP.pdf" %}}[PDF]{{% /staticref %}} *Review of Economics and Statistics*
 
 
 
