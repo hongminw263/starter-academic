@@ -70,6 +70,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2022/09:          Japan Health Economics Association Annual Conference (Okayama)
+
+
 2021/12:          Econometric Society European Winter Meetings (Virtual)
 
 
