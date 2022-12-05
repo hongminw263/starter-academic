@@ -79,6 +79,9 @@ subtitle = ""
 Performance Pay in Insurance Markets: Evidence from Medicare (with Michele Fioretti) 
 {{% staticref "files/JMP_SEP.pdf" %}}[PDF]{{% /staticref %}} *Review of Economics and Statistics*
 
+Mixing Age and Risk Groups for Accessing COVID-19 Vaccines: A Modelling Study (with Yoko Ibuka and Ryota Nakamura)
+*accepted at BMJ OPEN*
+
 
 
 
