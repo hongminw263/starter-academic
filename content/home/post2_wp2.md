@@ -73,5 +73,5 @@ subtitle = ""
 
 Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/MAreform_Jun_2022.pdf" %}}[PDF]{{% /staticref %}}
 
-Reducing Inequality While Improving Health: Long-Run Impacts from the Onset of Universal Health Insurance in Japan     
-(Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science) {{% staticref "files/UniversalJapan2022.pdf" %}}[PDF]{{% /staticref %}}
+Reducing Inequality While Improving Health: Long-Run Impacts from the Onset of Universal Health Insurance in Japan {{% staticref "files/UniversalJapan2022.pdf" %}}[PDF]{{% /staticref %}}     
+(Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
