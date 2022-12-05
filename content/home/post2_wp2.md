@@ -73,8 +73,8 @@ subtitle = ""
 
 Expanding Health Insurance with Mandate and Subsidy: Theory and Evidence from Massachusetts {{% staticref "files/MAreform_Jun_2022.pdf" %}}[PDF]{{% /staticref %}}
 
-Mixing Age and Risk Groups for Accessing COVID-19 Vaccines in Japan: A Modeling Study
+Mixing Age and Risk Groups for Accessing COVID-19 Vaccines: A Modelling Study
 (with Yoko Ibuka and Ryota Nakamura)
 
 Reducing Inequality While Improving Health: Long-Run Impacts from the Onset of Universal Health Insurance in Japan     
-(Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
+(Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science) {{% staticref "files/UniversalJapan2022.pdf" %}}[PDF]{{% /staticref %}}
