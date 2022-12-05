@@ -13,4 +13,4 @@ Hongming Wang is a research associate at the Hitotsubashi Institute for Advanced
 
 Email: hongming.wang@r.hit-u.ac.jp
 
-{{% staticref "files/CV102022.pdf" %}}CV{{% /staticref %}}
+{{% staticref "files/CV2022.pdf" %}}CV{{% /staticref %}}
