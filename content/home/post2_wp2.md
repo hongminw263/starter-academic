@@ -71,7 +71,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Health and Wellbeing Around the World: The Impacts of Trade {{% staticref "files/TradeWellbeing_Jan24_2024.pdf" %}}[PDF]{{% /staticref %}}     
+Health and Wellbeing Around the World: The Impacts of Trade {{% staticref "files/TradeWellbeing_Oct14_2024.pdf" %}}[PDF]{{% /staticref %}}     
 
 Reducing Inequality While Improving Health: Long-Run Impacts from the Onset of Universal Health Insurance in Japan 
 (Grants-in-aid for Scientific Research, #20K13509, Japan Society for the Promotion of Science)
